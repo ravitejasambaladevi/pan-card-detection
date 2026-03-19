@@ -1,0 +1,7 @@
+path: C:/Users/smaba/Desktop/pancard_detection/dataset
+
+train: images/train
+val: images/test
+
+names:
+  0: pancard
