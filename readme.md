@@ -94,6 +94,12 @@ python test_model.py
 
 ---
 
+## 📸 Sample Output
+
+![PAN Detection](outputs/pan_output.png)
+
+---
+
 ## ⚠️ Limitations
 
 * Performance depends on training data quality
